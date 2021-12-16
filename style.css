@@ -1,0 +1,112 @@
+body {
+  background-color: rgb(230,230,230);
+}
+
+.title-container{
+  height: 40vh;
+
+  background-color: rgb(230, 230, 230)
+}
+
+.title-hello{
+  font-size: 6rem;
+  font-weight: 700;
+  font-family: 'Raleway', sans-serif;
+
+  padding-bottom: 1rem;
+}
+
+.title-name{
+  font-size: 4rem;
+  font-weight: 800;
+  font-family: 'Raleway', sans-serif;
+
+  position: relative;
+  padding-left: 10px;
+  padding-right: 10px;
+  top: -2.5rem;
+
+  color: rgb(230, 230, 230);
+  background-color: #2f9886;
+}
+
+.title-tag{
+  font-size: 2rem;
+  font-weight: 800;
+  font-family: 'Raleway', sans-serif;
+
+  top: -2.5rem;
+
+  position:relative;
+}
+
+.about-me-container{
+  width: 80vw;
+
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  margin-left: 10vw;
+
+  background-color: #2f9986;
+}
+
+.about-me-image{
+  height: 20vw;
+  width: 20vw;
+
+  border-radius: 100%;
+  box-shadow: 10px 5px 10px black;
+}
+
+.about-me-text{
+  font-size: 1.5rem;
+  font-family: 'Raleway', sans-serif;
+
+  padding-left: 5% !important;
+  padding-right: 5% !important;
+
+  color: rgb(230, 230, 230);
+}
+
+.achievements-container{
+  width: 80vw;
+
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  margin-left: 10vw;
+
+  background-color: #2f8886;
+}
+
+.achievements-header{
+  font-size: 1.5rem;
+  font-family: 'Raleway', sans-serif;
+
+  margin-left: 10vw;
+
+  color: rgb(230, 230, 230);
+}
+
+.achievements-body{
+  font-size: 2rem;
+  font-weight: 800;
+  font-family: 'Raleway', sans-serif;
+
+  position:relative
+}
+
+.contact-me-container{
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+
+  font-size: 2rem;
+  font-weight: 700;
+  font-family: 'Raleway', sans-serif;
+}
+
+.contact-me-icon{
+  height: 8rem;
+  width: 8rem;
+}
